@@ -1,0 +1,2 @@
+# AWS-Based-Stock-Market-Data-Streaming-Analytics-with-Kafka
+AWS-Based Stock Market Data Streaming &amp; Analytics with Kafka is a scalable pipeline that simulates real-world stock markets. It uses Apache Kafka for streaming, Amazon S3 for storage, AWS Glue for data transformation, and Amazon Athena for querying. This integration enables real-time stock data processing, trend analysis, and actionable insights.
